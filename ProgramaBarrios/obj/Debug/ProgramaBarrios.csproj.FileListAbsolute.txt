@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.exe.config
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.exe
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.pdb
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.exe
+C:\Users\User\Desktop\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACIÓN 3\Primer Corte\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.pdb
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.exe.config
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.exe
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\bin\Debug\ProgramaBarrios.pdb
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.exe
+C:\Users\ESTUDIANTE\Downloads\EJERCICIOPREUBA-main\EJERCICIOPREUBA-main\4\4\Votacion\ProgramaBarrios\obj\Debug\ProgramaBarrios.pdb
